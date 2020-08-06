@@ -1,1 +1,20 @@
+front
+
 npx create-react-app web --template typescript
+
+
+back
+
+npm init -y
+
+npm install typescript -D
+
+npx tsc --init
+
+npm install ts-node-dev -D
+
+npm install express
+
+npm install knex sqlite3
+
+npm install cors
