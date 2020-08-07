@@ -2,6 +2,8 @@ front
 
 npx create-react-app web --template typescript
 
+npm install axios
+
 
 back
 
